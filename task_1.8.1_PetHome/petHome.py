@@ -10,6 +10,5 @@ class Cat:
     def getGender(self):
         return self.gender
 
-    def getAge(self):
+    def getAge(self): 
         return self.age
-    
